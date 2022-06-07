@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677415529714",
+    "project_id": "returnz-4c605",
+    "storage_bucket": "returnz-4c605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677415529714:android:dcd9dad4a890053a73746b",
+        "android_client_info": {
+          "package_name": "com.ideausher.returnz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677415529714-14vuslqpd83kfbfe15uu47of4hvmj9v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOlAP-YIvQPmkVyc2itjrtmt8ffKw4rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677415529714-14vuslqpd83kfbfe15uu47of4hvmj9v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

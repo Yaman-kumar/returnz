@@ -1,0 +1,53 @@
+name: returnz
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.5.1
+  sizer: ^2.0.15
+  fl_chart: ^0.40.5
+  animate_do: ^2.0.0
+  google_fonts: ^2.1.0
+  flutter_svg: ^1.0.0
+  local_auth: ^1.1.9
+  dio: ^4.0.4
+  firebase_auth: ^3.3.5
+  firebase_core: ^1.10.5
+  webview_flutter: ^3.0.0
+  uni_links: ^0.5.1
+  oauth2: ^2.0.0
+  oauth2_client: ^2.3.3
+  http: ^0.13.4
+  flutter_secure_storage: ^5.0.2
+  google_sign_in: ^5.2.2
+  sign_in_with_apple: ^3.3.0
+  flutter_facebook_auth: ^4.0.1
+  firebase_auth_platform_interface: 6.1.11
+
+
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  lints: 1.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/SVG/
+
+  fonts:
+    - family: SF Pro Display Regular
+      fonts:
+        - asset: assets/fonts/SF Pro Display.ttf
+
